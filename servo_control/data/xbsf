@@ -1,0 +1,9 @@
+armcontrol
+baseinc	base inc 	1	BUTTON	Button 3	0	0.0	0.0
+basedec	base reduce 	1	BUTTON	Button 1	0	0.0	0.0
+sup	stalk up	1	BUTTON	Button 0	0	0.0	0.0
+sdown	stalk down	1	BUTTON	Button 2	0	0.0	0.0
+mup	mid uo	1	BUTTON	Button 4	0	0.0	0.0
+mdown	mid down	1	BUTTON	Button 5	0	0.0	0.0
+gripop	grip open	1	BUTTON	Button 8	0	0.0	0.0
+gripclose	grip close	1	BUTTON	Button 9	0	0.0	0.0
